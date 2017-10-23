@@ -16,4 +16,4 @@ for the pizza
 I have declared a variable called pizzaDiv outside the loop and called it inside, and UpdatePositions i have declared phase and scrolltop outside the loop.
 and in ChangePizzaSize  first process saves the pizza form and second loop takes out the shape of the pizza.
 
-thank you.
+Thanks.
